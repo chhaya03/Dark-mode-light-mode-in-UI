@@ -1,4 +1,4 @@
-# Dark-mode-light-mode-in-UI
+#  light amd dark mode toggle
 Using Javascript
 
 This project introduces a user interface (UI) feature that allows users to switch between dark mode and light mode. 
